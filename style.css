@@ -1,0 +1,54 @@
+.btn-top {
+  color: blueviolet;
+}
+
+.front {
+  width: 110%;
+  height: 100vh; /* Set the height to cover the entire viewport */
+  display: block;
+  margin-top: -1px;
+  margin-right: -1px;
+  background-size: cover;
+  margin-left: -14px;
+}
+
+/* Add media query for responsiveness */
+@media (max-width: 768px) {
+  .front {
+    height: auto; /* Adjust this value for smaller screens */
+    margin-top: 0; /* Adjust this value for smaller screens */
+    margin-right: 0; /* Adjust this value for smaller screens */
+  }
+}
+
+.col1 {
+  background-color: rgba(49, 38, 54, 1);
+  width: 110%;
+  height: 100vh;
+  margin-top: -1px;
+  margin-right: -1px;
+  background-size: cover;
+  margin-left: -14px;
+  color: white;
+  display: block;
+}
+
+.back {
+  margin-left: 167px;
+  left: 232;
+  width: 840px;
+  height: 216;
+  top: 1119;
+  left: 232;
+}
+
+.Back2 {
+  width: 85%;
+  margin-top: -839px;
+  padding-left: 167px;
+}
+
+.Back3 {
+  width: -90%;
+  margin-top: -1463px;
+}
