@@ -134,17 +134,17 @@ h6 {
   padding: 0.6em;
 }
 
-div h2 span.color1 {
+/* .color1 {
   text-align: center;
   color: #f83c44;
-}
+} */
 
-div h2 span.color2 {
+/* .color2 {
   text-align: center;
   color: #8bcb99;
-}
+} */
 
-div h2 span.color3 {
+div h2 span {
   text-align: center;
   color: #7dd3ef;
 }
@@ -162,6 +162,309 @@ div h2 span.color3 {
   gap: 2em;
   flex-wrap: wrap;
   /* margin: 1.3em; */
+}
+
+/* flex-container1 */
+
+div span,
+.color1 {
+  color: #9C999E;
+}
+
+/* .color2 {
+  color: white;
+} */
+
+
+.color3 {
+  color: #ba68c8;
+}
+
+
+.paragraph1 {
+  color: #9c999e;
+  /* padding: 1em; */
+  position: relative;
+  bottom: -2em;
+}
+
+.Download-now-btn {
+  width: 200px;
+  padding: 0.5em;
+  background-color: #473853;
+  color: white;
+  border: 2px solid white;
+}
+
+.mobile-img {
+  width: 300px;
+}
+
+div .heading5 {
+  text-align: center;
+}
+
+.Characters {
+  width: 300px;
+  position: relative;
+  left: 37%;
+  margin: 1em;
+}
+
+.parent1 {
+  width: 550px;
+  height: 230px;
+  background-color: #473853;
+  margin: 2em auto;
+  border-radius: 10px;
+  padding: 1em;
+}
+
+.stars-img {
+  position: relative;
+  right: -60%;
+  bottom: -1em;
+}
+
+.girl1 {
+  position: relative;
+  bottom: -1em;
+  border-radius: 30px;
+  width: 50px;
+  height: 50px;
+}
+
+span,
+.Mishti {
+  margin-left: 0.5em;
+  position: relative;
+  bottom: -1em;
+}
+
+div .Vector {
+  position: relative;
+  top: -15%;
+  left: -5%;
+  display: flex;
+  justify-content: end;
+}
+
+.dots3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  grid-template-columns: 1em;
+  cursor: pointer;
+}
+
+div .Our-listeners {
+  margin: 7em;
+  text-align: center;
+  color: #ba68c8;
+}
+
+/* Three Cards */
+div .parent2 {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+  flex-wrap: wrap;
+  margin-top: -4em;
+}
+
+div .childs1 {
+  padding: 1.3em;
+  width: 300px;
+  height: 350px;
+  border-radius: 10px;
+  background-color: #2f2f2f;
+}
+
+p,
+.paragraph2 {
+  color: white;
+  padding: 0.5em;
+}
+
+.div1 {
+  text-align: center;
+  margin-left: -1em;
+  width: 295px;
+  height: 120px;
+  background-color: #9163b2;
+  border-radius: 10px;
+}
+
+span,
+.Misthi {
+  color: white;
+  position: relative;
+  bottom: -2rem;
+}
+
+.gitls {
+  margin: -2.4em;
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+}
+
+div .childs2 {
+  padding: 1.3em;
+  width: 300px;
+  height: 350px;
+  border-radius: 10px;
+  background-color: #2f2f2f;
+}
+
+p .paragraph3 {
+  color: white;
+  padding: 0.3em;
+}
+
+.div2 {
+  text-align: center;
+  margin-left: -1em;
+  width: 295px;
+  height: 120px;
+  background-color: #9163b2;
+  border-radius: 10px;
+}
+
+.Clip-path {
+  margin: -2.4em;
+  width: 80px;
+  height: 80px;
+  border-radius: 50px;
+}
+
+span,
+.Bhooma {
+  color: white;
+  position: relative;
+  bottom: -2rem;
+}
+
+p .paragraph4 {
+  color: white;
+  padding: 0.3em;
+}
+
+.childs3 {
+  padding: 1.3em;
+  width: 300px;
+  height: 350px;
+  border-radius: 10px;
+  background-color: #2f2f2f;
+}
+
+.div3 {
+  text-align: center;
+  margin-left: -1em;
+  width: 295px;
+  height: 120px;
+  background-color: #9163b2;
+  border-radius: 10px;
+}
+
+.Group {
+  margin: -2.4em;
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+}
+
+.Annu {
+  color: white;
+  position: relative;
+  bottom: -2rem;
+}
+
+.Multipal-images {
+  text-align: center;
+  position: relative;
+  bottom: -15px;
+}
+
+.spans {
+  position: relative;
+  z-index: 1;
+  margin-left: -20px;
+}
+
+.img1 {
+  width: 50px;
+  height: 50px;
+  border-radius: 15px;
+}
+
+.span1 {
+  color: #79737b;
+  padding: 0.5em;
+}
+
+.Form-Container {
+  position: relative;
+  bottom: -9em;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5em;
+  flex-wrap: wrap;
+  width: 750px;
+  height: 300px;
+  background-color: #a478be;
+  border-radius: 10px;
+}
+
+.heading6 {
+  position: relative;
+  bottom: 1em;
+  color: white;
+}
+
+.heading7 {
+  margin-top: -3em;
+  height: 400px;
+  border: 1px solid white;
+  background-color: white;
+  border-radius: 10px;
+  padding: 1em;
+}
+
+.heading8 {
+  text-align: center;
+  padding: 0.2em;
+}
+
+.inputs {
+  width: 320px;
+  height: 40px;
+  border-radius: 5px;
+  background-color: #f5f6f7;
+  border: 2px solid white;
+  padding: 1em;
+}
+
+.btn2 {
+  width: 320px;
+  height: 40px;
+  background-color: #ba68c8;
+  color: white;
+  border-radius: 5px;
+}
+
+.Read-more{
+  position: relative;
+  top: 1.5px;
+}
+
+.heading9{
+  position: relative;
+  top: 1px;
+  color: #BA68C8;
+
 }
 
 .gradient-text1 {
@@ -225,7 +528,6 @@ div h2 span.color3 {
   color: #fff;
 }
 
-
 .iconContainer {
   display: flex;
   justify-content: center;
@@ -233,6 +535,11 @@ div h2 span.color3 {
   gap: 1em;
   /* width: 100% !important;
   height: fit-content; */
+}
+
+.three-section{
+ position: relative;
+ bottom: -1.2em;
 }
 
 /* .iconContainer > a {
